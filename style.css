@@ -1,0 +1,112 @@
+
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.stars_mainDiv {
+    border: 1px solid;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+}
+
+.stars_mainDiv hr {
+    width: 230px;
+}
+
+.stars_mainDiv h5,
+.stars_mainDiv p {
+    margin-left: 20px;
+}
+
+.blackholes_mainDiv {
+    border: 1px solid;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+}
+
+.blackholes_mainDiv hr {
+    width: 230px;
+}
+
+.blackholes_mainDiv h5,
+.blackholes_mainDiv p {
+    margin-left: 20px;
+}
+
+.facts_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.facts_head i {
+    float: right;
+}
+
+.environment_li
+{
+    margin-top: 13px;
+}
+
+.environment h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+    border-radius: 25px;
+}
+
+.environment_li p
+{
+    margin-top: 10px;
+}
+
+.header_entrepreneur
+{
+    line-height:2;
+}
+.facts
+{
+    cursor: pointer;
+}
+.facts hr 
+{
+    margin-bottom: 10px;
+}
+.modal-content
+{
+    margin-top: 100px;
+}
+.img_modal
+{
+    display: inline-block;
+}
+.p_modal
+{
+margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center;
+}
